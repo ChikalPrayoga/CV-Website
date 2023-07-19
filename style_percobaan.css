@@ -1,0 +1,55 @@
+/* style.css */
+
+/* Gaya umum untuk navbar */
+.navbar {
+  background-color: #0194fd;
+  padding: 10px;
+}
+
+.navbar-brand {
+  color: #000;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.navbar-nav .nav-link {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #0244f9;
+}
+
+.dropdown-menu {
+  background-color: #e3f2fd;
+}
+
+.dropdown-menu a {
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.dropdown-menu a:hover {
+  background-color: #fffefe;
+  color: #000;
+}
+
+.form-control {
+  width: 200px;
+  height: 30px;
+}
+
+.btn-outline-success {
+  background-color: #ffffff;
+  color: #000;
+  font-weight: bold;
+}
+
+.btn-outline-success:hover {
+  background-color: #e6f606;
+  color: #000000;
+}
